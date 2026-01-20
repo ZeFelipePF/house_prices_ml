@@ -31,5 +31,3 @@ dist/
 build/
 *.egg-info/
 
-# Data files (uncomment if you don't want to upload)
-# *.csv
